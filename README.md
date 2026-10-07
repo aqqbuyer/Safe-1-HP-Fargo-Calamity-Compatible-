@@ -1,0 +1,25 @@
+Предупреждение:
+Данный мод является исправленным форком мода "1HP playthrough v0.1.1".
+Код полностью переписан с нуля с помощью ИИ для устранения вылетов, зависаний экрана смерти и рассинхронов в мультиплеере.
+
+Мод создан специально для корректной совместной работы с Fargo's Souls Mod, Calamity Mod в мультиплеере
+
+Особенности:
+• Фиксирует максимальное здоровье игрока на 1 хп.
+• Полная поддержка Кристаллов и Фруктов жизни (Армия гоблинов, Глаз Ктулху и Медсестра приходят штатно).
+• Не трогает таймеры смерти (полностью устранены зависания на 5 секундах и бессмертие боссов).
+• Не перезаписывает файлы сохранений — 100% безопасен для ваших персонажей.
+• Чистый код без несовместимых IL-хуков.
+
+- - - - - - - - - - - - - - -
+
+This mod is a complete rework/fork of the "1HP playthrough v0.1.1" mod.
+The codebase was rewritten by AI to fix multiplayer desyncs, soft-locks on the death screen, and save file issues.
+
+Features:
+• Clamps player max HP to 1 safely.
+• Preserves Life Crystal & Life Fruit progression (triggers vanilla/modded events normally).
+• Does not alter respawn timers (fixes soft-locks in Fargo's Eternity mode).
+• Safe for character save files.
+
+Source code: 
