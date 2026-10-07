@@ -1,0 +1,3 @@
+displayName = Safe 1 HP (Fargo & Calamity Compatible)
+author = ne_smeshno
+version = 0.1
