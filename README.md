@@ -1,4 +1,4 @@
-# Safe 1-HP Playthrough (Fargo + Calamity Compatible)
+# 1 HP (fix 1HP playthrough)
 
 A tModLoader mod that safely locks player maximum health to 1 HP while resolving crashes, multiplayer desyncs, and compatibility issues.
 
