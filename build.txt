@@ -1,3 +1,6 @@
-displayName = Safe 1 HP (Fargo & Calamity Compatible)
+displayName = 1 HP (Fargo & Calamity Compatible)
 author = ne_smeshno
-version = 0.1
+version = 0.3
+homepage = https://github.com/aqqbuyer/Safe-1-HP-Fargo-Calamity-Compatible-
+includeSource = true
+side = Both
